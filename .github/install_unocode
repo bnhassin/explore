@@ -1,0 +1,2 @@
+$ gem install unicode-display_width
+$ ruby -r unicode/display_width -e 'puts Unicode::DisplayWidth.of $*[0]' -- "一"
