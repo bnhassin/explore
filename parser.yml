@@ -1,0 +1,2 @@
+gem install parser
+gem 'parser', '~> 3.0', '>= 3.0.3.0'
